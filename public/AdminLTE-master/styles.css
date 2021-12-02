@@ -1,0 +1,41 @@
+.dash-area {
+    margin: 20px;
+}
+
+.card-area {
+    margin: 15px;
+}
+
+.card-header span {
+    font-size: 25px;
+}
+
+.card-header .edit-account {
+    color: rgb(49, 49, 49);
+    float: right;
+    font-size: 18px;
+    padding: 2px 5px 2px 7px;
+}
+
+.card-header .edit-account:hover {
+    color:white;
+    background-color: rgb(16, 107, 16);
+    padding: 2px 5px 2px 7px;
+    border-radius: 50%;
+}
+
+.card-body .name {
+    text-transform: uppercase;
+}
+
+.message-seen {
+    font-size: 10px;
+    margin-right: 5px;
+    color: rgb(16, 107, 16);
+}
+
+.message-unseen {
+    font-size: 10px;
+    margin-right: 5px;
+    color: rgb(172, 9, 9);
+}
