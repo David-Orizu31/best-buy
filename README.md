@@ -1,2 +1,2 @@
-# the-best-buy
+# best-buy
  The Best Buy with backend
